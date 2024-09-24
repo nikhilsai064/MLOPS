@@ -50,11 +50,8 @@ Results
 
 The model achieved the following metrics on the test data:
 
-Accuracy: 91%
-
-F1 Score: 90%
-
-Precision: 90%
-
-Recall: 91%
+- **Accuracy:** 90.54%
+- **F1 Score:** 89.88%
+- **Precision:** 89.82%
+- **Recall:** 90.54%
 
