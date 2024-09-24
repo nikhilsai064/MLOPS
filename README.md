@@ -42,7 +42,7 @@ Submit the Pipeline:
 
 Run the pipeline.py script to submit the pipeline to Azure ML. This will trigger data preparation, model training, and evaluation.
 
-Check Results: 
+Results: 
 
 The evaluation metrics will be logged in Azure ML, and the model will be available in the model registry.
 
